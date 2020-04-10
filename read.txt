@@ -1,0 +1,177 @@
+Homework BoiToday at 11:23
+It goes directly through my router
+MrMcSuToday at 11:23
+where'd you get the dns from
+Homework BoiToday at 11:24
+It’s sub domain
+GoliaVictorToday at 11:24
+just use the word ip because if viraj's ip changes he can just change where the link redirects to
+Homework BoiToday at 11:24
+No
+MrMcSuToday at 11:24
+where'd you get it from though
+GoliaVictorToday at 11:24
+netlify
+wait no
+Homework BoiToday at 11:25
+No-Ip trusted by tp link cause they have settings for it
+No
+Netlify is my webhost
+MrMcSuToday at 11:25
+then the domain name technically belongs to them after it expired for you
+I mean, you have the change the ip anyways
+Homework BoiToday at 11:26
+I can refresh subdomain ownage in 3 months
+MrMcSuToday at 11:26
+that's not the point
+Homework BoiToday at 11:26
+And Ye it changes
+MrMcSuToday at 11:26
+by itself
+Homework BoiToday at 11:26
+Ye
+MrMcSuToday at 11:26
+Nice,
+so what's the ip
+Homework BoiToday at 11:26
+Use the link
+MrMcSuToday at 11:27
+no
+Homework BoiToday at 11:27
+Y
+MrMcSuToday at 11:27
+you're not gonna refresh the ip for our entire lifetime
+*dns
+GoliaVictorToday at 11:27
+eric i have sad news
+MrMcSuToday at 11:27
+yes my donkey died is bthat it
+Homework BoiToday at 11:27
+it takes less then a min to do
+GoliaVictorToday at 11:27
+a creeper blew up your mule
+MrMcSuToday at 11:27
+ik sad
+make a new one.
+make
+GoliaVictorToday at 11:27
+you said donkey
+MrMcSuToday at 11:27
+anyways
+Viraj, I don't think you would.
+Homework BoiToday at 11:28
+Light the area up
+it’s not routed to the dns
+MrMcSuToday at 11:28
+I'm still not trusting it
+Homework BoiToday at 11:29
+K I’ll prove it’s trustworthy
+Go to router settings
+MrMcSuToday at 11:29
+wait me
+Homework BoiToday at 11:29
+Yes
+Now
+MrMcSuToday at 11:30
+umnnn
+Homework BoiToday at 11:30
+Then go to advanced
+MrMcSuToday at 11:30
+done
+Homework BoiToday at 11:30
+Network
+MrMcSuToday at 11:30
+done
+Homework BoiToday at 11:30
+Dynamic dns
+There is setting for no-up
+MrMcSuToday at 11:31
+what is no ip
+Homework BoiToday at 11:31
+No-IP*
+they setup dynamic dns
+MrMcSuToday at 11:31
+o ok
+that proved nothing but ok
+Homework BoiToday at 11:32
+THE ROUTER TRUSTS IT
+THE ROUTER U TRUST
+MrMcSuToday at 11:32
+but the router trusts anything
+I still trust telstra  routers more than tplink
+but still, routers trust everything
+if you make it
+Homework BoiToday at 11:32
+No they fucking have settings for it ._.
+MrMcSuToday at 11:33
+I know
+bc settings are maintained by the dns provider
+anyways
+I'm using the ip to join your thing anyways
+GoliaVictor
+ started a call that lasted 2 hours.
+Today at 11:33
+MrMcSuToday at 11:33
+dw
+Homework BoiToday at 11:33
+they get my public ip
+And idc they can have
+Just use the link
+MrMcSuToday at 11:35
+I'm using the ip
+bro I'm just being me ok
+if you're not gonna supply me with the ip, then I'm gonna always use the ip form the dns to numerical ip converter. I'm sorry, it's just how it will be.
+you don't need to worry, it's extra work for me anyways.
+and yes this is about me in 2017
+and these dns servers I had
+ik it sounds stupid but I'm relating this to the past.
+anyways
+go have lunch
+bye
+@Homework Boi Can you promise me that the dns is safe
+Homework BoiToday at 11:39
+Yes
+Promise
+GoliaVictorToday at 11:57
+
+GoliaVictorToday at 12:10
+
+MrMcSu
+ started a call that lasted an hour.
+Today at 14:01
+GoliaVictorToday at 14:58
+hello
+back
+Homework BoiToday at 14:58
+Yo
+GoliaVictorToday at 14:59
+are you weisan
+Homework BoiToday at 14:59
+Giv me 20 mins
+No
+server on as well
+GoliaVictorToday at 14:59
+k
+Homework BoiToday at 14:59
+Picked it up from weisen and Kiera
+MrMcSuToday at 15:29
+?
+GoliaVictorToday at 15:29
+viraj said yo
+Homework BoiToday at 15:29
+Btw servers on
+MrMcSuToday at 15:56
+oh ok
+Homework BoiToday at 17:07
+tell me when u want server to be bac on
+GoliaVictorToday at 17:16
+hello
+Homework BoiToday at 17:16
+hi
+GoliaVictorToday at 17:16
+call?
+Homework BoiToday at 17:16
+sure
+GoliaVictor
+ started a call.
+Today at 17:16
