@@ -1,5 +1,6 @@
-var express = require('express');
-var bodyParser = require('body-parser');
+const express = require('express');
+const bodyParser = require('body-parser');
+const serverless = require('serverless-http');
 
 var learning = express();
 
@@ -27,8 +28,7 @@ learning.get('/profile/:id', function(req, res){
     res.render('profile',{id: req.params.id, data});
 });
 
-learning.listen(3000);
-
+module.exports.handler = serverless(app);
 // var http = require('http');
 // var fs = require('fs');
 
