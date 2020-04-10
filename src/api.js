@@ -9,7 +9,7 @@ const router = express.Router();
 var urlEncodedParser = bodyParser.urlencoded({extended: false});
 
 app.set('view engine', 'ejs');
-app.use('/styles', express.static('styles'));
+// app.use('/styles', express.static('styles'));
 
 router.get('/', function(req,res){
     res.render('index');
