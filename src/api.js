@@ -8,8 +8,8 @@ const router = express.Router();
 
 var urlEncodedParser = bodyParser.urlencoded({extended: false});
 
-router.set('view engine', 'ejs');
-//router.use('/styles', express.static('styles'));
+app.set('view engine', 'ejs');
+router.use('/styles', express.static('styles'));
 
 router.get('/', function(req,res){
     res.render('index');
