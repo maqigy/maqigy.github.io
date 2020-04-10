@@ -2,28 +2,28 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const serverless = require('serverless-http');
 
-var learning = express();
+var app = express();
 
 var urlEncodedParser = bodyParser.urlencoded({extended: false});
 
-learning.set('view engine', 'ejs');
-learning.use('/styles', express.static('styles'));
+app.set('view engine', 'ejs');
+app.use('/styles', express.static('styles'));
 
-learning.get('/', function(req,res){
+app.get('/', function(req,res){
     res.render('index');
 });
 
-learning.get('/contact', function(req,res){
+app.get('/contact', function(req,res){
     console.log(req.query);
     res.render('contact', {qs: req.query});
 });
 
-learning.post('/contact', urlEncodedParser, function(req,res){
+app.post('/contact', urlEncodedParser, function(req,res){
     console.log(req.body);
     res.render('contact-success', {data: req.body});
 });
 
-learning.get('/profile/:id', function(req, res){
+app.get('/profile/:id', function(req, res){
     var data = {age: '16', job: 'TKS', hobbies: ['rugby', 'rowing', 'basketball']};
     res.render('profile',{id: req.params.id, data});
 });
