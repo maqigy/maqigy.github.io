@@ -2,32 +2,35 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const serverless = require('serverless-http');
 
-var app = express();
+const app = express();
+
+const router = express.Router();
 
 var urlEncodedParser = bodyParser.urlencoded({extended: false});
 
-app.set('view engine', 'ejs');
-app.use('/styles', express.static('styles'));
+router.set('view engine', 'ejs');
+//router.use('/styles', express.static('styles'));
 
-app.get('/', function(req,res){
+router.get('/', function(req,res){
     res.render('index');
 });
 
-app.get('/contact', function(req,res){
+router.get('/contact', function(req,res){
     console.log(req.query);
     res.render('contact', {qs: req.query});
 });
 
-app.post('/contact', urlEncodedParser, function(req,res){
+router.post('/contact', urlEncodedParser, function(req,res){
     console.log(req.body);
     res.render('contact-success', {data: req.body});
 });
 
-app.get('/profile/:id', function(req, res){
+router.get('/profile/:id', function(req, res){
     var data = {age: '16', job: 'TKS', hobbies: ['rugby', 'rowing', 'basketball']};
     res.render('profile',{id: req.params.id, data});
 });
 
+app.use('/.netlify/functions/api', router);
 module.exports.handler = serverless(app);
 // var http = require('http');
 // var fs = require('fs');
