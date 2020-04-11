@@ -1,0 +1,22 @@
+{
+  "name": "first-nodejs-try",
+  "version": "1.0.0",
+  "description": "learning nodejs",
+  "main": "learning.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon expressLearning.js"
+  },
+  "keywords": [
+    "magic",
+    "maqig",
+    "thisisnotworking"
+  ],
+  "author": "me",
+  "license": "ISC"
+}
